@@ -1,17 +1,17 @@
-### Hi there, 👋
-## I'm [Lonelymous]
+### Hi there, 👋 I'm [Lonelymous]
 
-## ASD
+## Skills
 
-### Skills
+- C / C++ (1 years)
+- C# (3 years)
+- 🐍 Python (2 years)
+- Lua (4 years)
+- 🔆 HTML / CSS / SCSS (4 years)
+- Javascript (4 years)
+- 🖥️ NodeJS (2 years)
 
-- 🐍 C / C++
-- 🐍 C#
-- 🐍 Python
-- 🔆 HTML / CSS
-- 🖥️ Javascript / NodeJS
 
-<div>
+<!-- <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -27,6 +27,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+</div> -->
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=lonelymous&show_icons=true&theme=prussian)
