@@ -1,10 +1,6 @@
 ### Hi there, 👋 I'm [Lonelymous]
+I'm a developer
 =====================
-## I'm a developer
-
-<a href="https://www.github.com/lonelymous" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/lonelymous?logo=github&style=for-the-badge&color=f97316&labelColor=000000" /></a>
-
 ## Skills
 
 - C / C++ (1 years)
@@ -15,7 +11,8 @@ src="https://img.shields.io/github/followers/lonelymous?logo=github&style=for-th
 - Javascript (4 years)
 - 🖥️ NodeJS (2 years)
 
-
+<a href="https://www.github.com/lonelymous" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/lonelymous?logo=github&style=for-the-badge&color=f97316&labelColor=000000" /></a>
 <!-- <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
