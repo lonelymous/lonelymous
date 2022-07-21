@@ -1,6 +1,5 @@
 ### Hi there, 👋 I'm [Lonelymous]
 I'm a developer
-=====================
 ## Skills
 
 - C / C++ (1 years)
