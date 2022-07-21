@@ -1,4 +1,9 @@
 ### Hi there, 👋 I'm [Lonelymous]
+=====================
+## I'm a developer
+
+<a href="https://www.github.com/lonelymous" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/lonelymous?logo=github&style=for-the-badge&color=f97316&labelColor=000000" /></a>
 
 ## Skills
 
