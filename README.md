@@ -2,13 +2,13 @@
 I'm a developer
 ## Skills
 
-- C / C++ (1 years)
+- C / C++ (2 years)
 - C# (3 years)
-- 🐍 Python (2 years)
+- 🐍 Python (3 years)
 - Lua (4 years)
-- 🔆 HTML / CSS / SCSS (4 years)
-- Javascript (4 years)
-- 🖥️ NodeJS (2 years)
+- 🔆 HTML / CSS / SCSS (5 years)
+- Javascript (5 years)
+- 🖥️ NodeJS (3 years)
 
 <a href="https://www.github.com/lonelymous" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/lonelymous?logo=github&style=for-the-badge&color=f97316&labelColor=000000" /></a>
