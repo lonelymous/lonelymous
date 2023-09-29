@@ -19,8 +19,15 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=lonelymous&theme=shadow_red&hide_border=true&background=FFFFFF00">
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,go,py,lua)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=angular,react,ts,js,html,css)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=dotnet,flutter,unity)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git,github,postman,discord)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes)](https://skillicons.dev)
+<p align="center">
+  [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,go,py,lua)](https://skillicons.dev)
+  <br>
+  [![My Skills](https://skillicons.dev/icons?i=angular,react,ts,js,html,css)](https://skillicons.dev)
+  <br>
+  [![My Skills](https://skillicons.dev/icons?i=dotnet,flutter,unity)](https://skillicons.dev)
+  <br>
+  [![My Skills](https://skillicons.dev/icons?i=git,github,postman,discord)](https://skillicons.dev)
+  <br>
+  [![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes)](https://skillicons.dev)
+</p>
+
