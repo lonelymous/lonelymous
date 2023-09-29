@@ -20,14 +20,23 @@
 </p>
 
 <p align="center">
+
   [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,go,py,lua)](https://skillicons.dev)
+  
   <br>
+
   [![My Skills](https://skillicons.dev/icons?i=angular,react,ts,js,html,css)](https://skillicons.dev)
+
   <br>
+
   [![My Skills](https://skillicons.dev/icons?i=dotnet,flutter,unity)](https://skillicons.dev)
+  
   <br>
+  
   [![My Skills](https://skillicons.dev/icons?i=git,github,postman,discord)](https://skillicons.dev)
+  
   <br>
+  
   [![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes)](https://skillicons.dev)
 </p>
 
