@@ -33,10 +33,10 @@
   
   <br>
   
-  [![My Skills](https://skillicons.dev/icons?i=git,github,postman,discord)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes)](https://skillicons.dev)
   
   <br>
   
-  [![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,github,postman,discord)](https://skillicons.dev)
 </p>
 
