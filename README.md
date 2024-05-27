@@ -1,5 +1,5 @@
 <p align="center">
-  I'm András Ármin Szabó, a 19-year-old computer engineering student at the University of Debrecen. I am passionate about software design and development and I am proud to say that I have been programming for 6 years. My skills range widely, with a particular focus on C#, Flutter, Golang and Python. My responsibilities include server, mobile and desktop application development and I'm always interested in the latest technology trends.
+  I'm András Ármin Szabó, a 20-year-old computer engineering student at the University of Debrecen. I am passionate about software design and development and I am proud to say that I have been programming for 6 years. My skills range widely, with a particular focus on C#, Flutter, Golang and Python. My responsibilities include server, mobile and desktop application development and I'm always interested in the latest technology trends.
 </p>
 
 <p align="center">
